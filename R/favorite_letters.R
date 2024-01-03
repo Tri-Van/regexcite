@@ -8,6 +8,7 @@ mfl2 <- function() {
 }
 
 #' Change my favorite letters
+#' @import dplyr
 #' @export
 set_mfl2 <- function(l = letters[24:26]) {
   old <- the$favorite_letters
