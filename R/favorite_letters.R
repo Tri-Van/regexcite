@@ -8,6 +8,7 @@ the$favorite_letters <- letters[1:3]
 #' @export
 #'
 #' @examples
+#' @noRd
 mfl2 <- function() {
   the$favorite_letters
 }
