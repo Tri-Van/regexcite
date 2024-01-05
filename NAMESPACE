@@ -3,3 +3,4 @@
 export(mfl2)
 export(set_mfl2)
 export(str_split_one)
+import(dplyr)

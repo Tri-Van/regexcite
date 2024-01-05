@@ -6,6 +6,9 @@
 \usage{
 set_mfl2(l = letters[24:26])
 }
+\arguments{
+\item{l}{}
+}
 \description{
 Change my favorite letters
 }
